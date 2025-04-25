@@ -76,7 +76,8 @@ plt.show()
 
 ~~~
 <H3>Output:</H3>
-![Screenshot 2025-04-25 112551](https://github.com/user-attachments/assets/413c7d2f-c9d0-4463-add4-5b4e2cca73fc)
+
+![Screenshot 2025-04-25 112551](https://github.com/user-attachments/assets/fff58097-df5f-4d31-aa24-626cc01c10f0)
 
 
 
